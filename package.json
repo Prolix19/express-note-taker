@@ -1,14 +1,25 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "Note Taker",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "Jest"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Daniel Birmingham",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.16.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prolix19/express-note-taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Prolix19/express-note-taker/issues"
+  },
+  "homepage": "https://github.com/Prolix19/express-note-taker#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
   }
 }
