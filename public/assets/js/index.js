@@ -1,3 +1,5 @@
+// This was all starter code provided as part of this challenge, so I have chosen not to comment on it in depth.
+
 let noteTitle;
 let noteText;
 let saveNoteBtn;
